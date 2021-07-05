@@ -14,3 +14,7 @@ O objetivo é reunir diversas receitas e disponibilizar elas no GitHub, para col
 
 - Strogonoff de frango
 
+
+---
+
+### [Pablo Emidio](https://github.com/PabloEmidio) esteve aqui
