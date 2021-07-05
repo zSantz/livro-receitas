@@ -6,11 +6,15 @@ Olá! Bem vindo ao meu livro de receitas comunitário :wave:. Desenvolvi essa id
 
 ### Objetivo​ :heavy_check_mark:
 
-O objetivo é reunir diversas receitas e disponibilizar elas no GitHub, para colocar em pratica os ensinamentos e contribuir em projetos futuros.
+O objetivo é reunir diversas receitas e disponibilizar elas no GitHub, para colocar em pratica os ensinamentos e contribuir em projetos futuros. Então adicione sua receita, ou deixe um recado no painel, ou talvez os ambos. Estou esperando:smiley: :thumbsup:
 
 
 
 ### Receitas :books:
 
 - Strogonoff de frango
+
+
+
+### Painel de recados :pushpin:
 
