@@ -13,14 +13,9 @@ O objetivo é reunir diversas receitas e disponibilizar elas no GitHub, para col
 ### Receitas :books:
 
 - Strogonoff de frango
-
-
-<<<<<<< HEAD
+- Molho de Pimenta com Manga
+- Sorvete de Banana com Pasta de Amendoim
 
 ### Painel de recados :pushpin:
 
-=======
----
-
 ### [Pablo Emidio](https://github.com/PabloEmidio) esteve aqui
->>>>>>> 137d2d864f6449d4f7b90c8c723a75ed483c3668
